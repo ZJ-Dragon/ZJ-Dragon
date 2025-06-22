@@ -10,10 +10,9 @@ Hello World! 👋
 ⸻
 
 🚧 正在折腾
-	•	ZenuX Kernel · 基于 Linux 的自研内核，目标低功耗 + 沙箱安全
-	•	AutoPilot 视觉 · YOLOv8 目标检测 & 跟踪
-	•	CI/CD with GitHub Actions · 从零搭建自动发布流水线
-	•	LLM 微调 · 把笔记写进大模型脑袋里
+	•	ZenuX Kernel · 基于 Linux 的自研内核，目标低功耗 + 沙箱安全  
+	•	AutoPilot 视觉 · YOLOv5 目标检测 & 跟踪  
+	•	LLM 微调 · 把笔记写进大模型脑袋里  
 
 <!-- DYNAMIC-START -->
 
