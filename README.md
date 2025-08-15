@@ -10,7 +10,7 @@ Hello World! 👋
 ⸻
 
 🚧 正在折腾  
-	•	ZenuX Kernel · 基于 Linux 的自研内核，目标低功耗 + 沙箱安全  
+	•	ZenuX Kernel · 自研内核，目标生态 + 沙箱安全  
 	•	AutoPilot 视觉 · YOLOv5 目标检测 & 跟踪  
 	•	LLM 微调 · 把笔记写进大模型脑袋里  
 
