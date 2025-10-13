@@ -7,12 +7,12 @@ Hello World! 👋
 
 学生 & 系统开发者 | 专注内核 / AI / DevOps 
 
-⸻
+---
 
 🚧 正在折腾  
 	•	ZenuX Kernel · 自研内核，目标生态 + 沙箱安全  
 	•	AutoPilot 视觉 · YOLOv5 目标检测 & 跟踪  
-	•	LLM 微调 · 把笔记写进大模型脑袋里  
+	•	Lumina · 类意识体通用智能
 
 <!-- DYNAMIC-START -->
 
@@ -20,8 +20,7 @@ Hello World! 👋
 <!-- DYNAMIC-END -->
 
 
-
-⸻
+---
 
 🛠️ Tech Stack
 
@@ -34,7 +33,7 @@ DevOps
 OS / Kernel	 
 
 
-⸻
+---
 
 📊 Stats
 
@@ -45,7 +44,7 @@ OS / Kernel
 
 
 
-⸻
+---
 
 📨 联系
 	•	Issues / Discussions 欢迎拍砖
